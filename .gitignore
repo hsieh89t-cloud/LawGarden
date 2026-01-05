@@ -9,3 +9,7 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# 本機備份（不推送到GitHub）
+content_default/
+*.bak
